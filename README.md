@@ -129,13 +129,18 @@ Tracks outreach activity by staff and identifies seasonal or intake-based patter
 ## 📸 Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard](screenshots/main-dashboard.png)
 
 ### Country & Outreach Insights
-![Country Insights](screenshots/country-insights.png)
+![Country Insights](Country overview.png)
 
-### Case Progress & Counselor Activity
-![Case Progress](screenshots/case-progress.png)
+### Case Progress & Outreach
+![Case Progress](Outreach & Status Case Progress.png)
+
+### Program & Intake Analysis
+![Intake Analysis](Program & Intake Analysis.png)
+
+### Counselors' Performance
+![Counselor Performance](Counselor Performance.png)
 
 ---
 
