@@ -134,7 +134,7 @@ Tracks outreach activity by staff and identifies seasonal or intake-based patter
 ![Country Insights](Country overview.png)
 
 ### Case Progress & Outreach
-![Case Progress](Outreach & Status Case Progress.png)
+![Case Progress](screenshots/Outreach & Status Case Progress.png)
 
 ### Program & Intake Analysis
 ![Intake Analysis](Program & Intake Analysis.png)
