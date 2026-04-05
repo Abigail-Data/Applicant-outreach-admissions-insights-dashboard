@@ -131,16 +131,16 @@ Tracks outreach activity by staff and identifies seasonal or intake-based patter
 ### Main Dashboard
 
 ### Country & Outreach Insights
-![Country Insights](Country overview.png)
+![Country Insights](Country-overview.png)
 
 ### Case Progress & Outreach
-![Case Progress](screenshots/Outreach & Status Case Progress.png)
+![Case Progress](Outreach-&-Status-Case-Progress.png)
 
 ### Program & Intake Analysis
-![Intake Analysis](Program & Intake Analysis.png)
+![Intake Analysis](Program-&-Intake-Analysis.png)
 
 ### Counselors' Performance
-![Counselor Performance](Counselor Performance.png)
+![Counselor Performance](Counselor-Performance.png)
 
 ---
 
@@ -166,4 +166,4 @@ This project demonstrates my ability to:
 
 ## 👩🏽‍💻 Author
 **Abigail Alabi**  
-Aspiring Data Analyst | Power BI | Excel | Data Storytelling
+Data Analyst | Power BI | Excel | Data Storytelling
