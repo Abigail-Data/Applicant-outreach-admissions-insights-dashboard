@@ -17,7 +17,7 @@ The final output includes an interactive Power BI dashboard, an insight report, 
 
 ---
 
-## 📁 Dataset
+## Dataset
 The dataset contains applicant outreach and admissions-related interaction records, with a focus on international graduate recruitment.
 
 ### Key fields used include:
